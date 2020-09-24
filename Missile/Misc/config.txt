@@ -1,0 +1,25 @@
+DO NOT MODIFY THIS FILE
+A
+S
+D
+km
+Defiant
+Defiant
+Defiant
+Defiant
+Defiant
+Defiant
+DEFIANT
+GAMESPEED 0
+mike
+Defiant
+135060
+119350
+83430
+79210
+76900
+58920
+56740
+40650
+40000
+32040
